@@ -73,7 +73,7 @@ http://localhost:8080/swapi/records/showRecords (Thymeleaf)
   - Thymeleaf
   - OpenAPI
   - SpringBoot (2.6.4)
-    - H2
+    - PostgreSQL
     - Data JPA
     - DevTools
     - Web
